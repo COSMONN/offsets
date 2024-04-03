@@ -1,30 +1,29 @@
-namespace offsets
 {
-	DWORD
-		FnamePool = 0xA56BFC0,
-		Gameinstance = 0x1A0,
-		Ulevel = 0x38,
-		LocalPlayers = 0x40,
-		PlayerController = 0x38,
-		PlayerCameraManager = 0x480,
-		MyHUD = 0x478,
-		AcknowledgedPawn = 0x468,
-		PlayerState = 0x3f8,
-		TeamComponent = 0x630,
-		TeamID = 0xF8,
-		ControlRotation = 0x448,
-		UniqueID = 0x38,
-		FNameID = 0x18,
-		AActorArray = 0xA0,
-		RootComponent = 0x238,
-		RelativeLocation = 0x164,
-		MeshComponent = 0x438,
-		DamageHandler = 0xA08,
-		bIsDormant = 0x101,
-		Health = 0x1B0,
-		ComponentToWorld = 0x250,
-
-		BoneArray = 0x5D8, //0x10
-		BoneArrayCache = 0x5C8,
-		BoneCount = 0x5E0;
+  "offsets": {
+    "FnamePool": 0xA56BFC0,
+    "Gameinstance": 0x1A0,
+    "Ulevel": 0x38,
+    "LocalPlayers": 0x40,
+    "PlayerController": 0x38,
+    "PlayerCameraManager": 0x480,
+    "MyHUD": 0x478,
+    "AcknowledgedPawn": 0x468,
+    "PlayerState": 0x3f8,
+    "TeamComponent": 0x630,
+    "TeamID": 0xF8,
+    "ControlRotation": 0x448,
+    "UniqueID": 0x38,
+    "FNameID": 0x18,
+    "AActorArray": 0xA0,
+    "RootComponent": 0x238,
+    "RelativeLocation": 0x164,
+    "MeshComponent": 0x438,
+    "DamageHandler": 0xA08,
+    "bIsDormant": 0x101,
+    "Health": 0x1B0,
+    "ComponentToWorld": 0x250,
+    "BoneArray": 0x5D8,
+    "BoneArrayCache": 0x5C8,
+    "BoneCount": 0x5E0
+  }
 }
